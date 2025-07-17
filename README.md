@@ -2,6 +2,18 @@
 
 This file documents the development of a command-line RPG created with the help of a large language model. It tracks the game's evolution through different versions, detailing the features added at each stage and the prompts used to generate them.
 
+## How to Play
+
+1.  **Run the game:** Open a terminal or command prompt and run the script using `python rpg.py`.
+2.  **Create your party:** Choose the number of heroes you want to control (1-3) and select a class for each one.
+3.  **Explore the dungeon:** Use the `w`, `a`, `s`, and `d` keys to move your party through the procedurally generated dungeons.
+4.  **Combat:** When you encounter an enemy, you'll enter turn-based combat. On each hero's turn, you can:
+    *   **(1) Attack:** Perform a basic attack on a random enemy.
+    *   **(2) Skill:** Use your class's unique skill (e.g., Power Strike, Fireball, Double Shot).
+    *   **(3) Inventory:** Open your inventory to use a potion or equip a different weapon or armor.
+5.  **Descend:** Find the stairs (`>`) to descend to the next dungeon level.
+6.  **Win:** Defeat the final boss on the last level to win the game.
+
 ## Version History
 
 ### v1.0: Initial Implementation
