@@ -5,14 +5,14 @@ This file documents the development of a command-line RPG created with the help 
 ## How to Play
 
 1.  **Run the game:** Open a terminal or command prompt and run the script using `python rpg.py`.
-2.  **Create your party:** Choose the number of heroes you want to control (1-3) and select a class for each one.
+2.  **Create your party:** Choose the number of heroes you want to control (1-3) and select a class for each one (e.g., Warrior 🤺, Mage 🧙, Archer 🏹).
 3.  **Explore the dungeon:** Use the `w`, `a`, `s`, and `d` keys to move your party through the procedurally generated dungeons.
-4.  **Combat:** When you encounter an enemy, you'll enter turn-based combat. On each hero's turn, you can:
-    *   **(1) Attack:** Perform a basic attack on a random enemy.
-    *   **(2) Skill:** Use your class's unique skill (e.g., Power Strike, Fireball, Double Shot).
-    *   **(3) Inventory:** Open your inventory to use a potion or equip a different weapon or armor.
-5.  **Descend:** Find the stairs (`>`) to descend to the next dungeon level.
-6.  **Win:** Defeat the final boss on the last level to win the game.
+4.  **Combat:** When you encounter an enemy (e.g., Goblin 👺, Orc 👹), you'll enter turn-based combat. On each hero's turn, you can:
+    *   **(1) Attack 💥:** Perform a basic attack on a random enemy.
+    *   **(2) Skill ✨:** Use your class's unique skill (e.g., Power Strike, Fireball, Double Shot).
+    *   **(3) Inventory 🎒:** Open your inventory to use a potion 🧪 or equip a different weapon ⚔️ or armor 🛡️.
+5.  **Descend:** Find the stairs (🔽) to descend to the next dungeon level.
+6.  **Win:** Defeat the final boss (🐉) on the last level to win the game.
 
 ## Version History
 
@@ -60,12 +60,12 @@ This file documents the development of a command-line RPG created with the help 
 
 ## Features
 
-*   **Character Classes:** Choose from three distinct classes: Warrior, Mage, and Archer.
+*   **Character Classes:** Choose from three distinct classes: Warrior 🤺, Mage 🧙, and Archer 🏹.
 *   **Procedural Dungeons:** Explore randomly generated dungeons with unique layouts every time.
-*   **Loot and Equipment:** Find and equip a variety of weapons and armor.
+*   **Loot and Equipment:** Find and equip a variety of weapons ⚔️ and armor 🛡️.
 *   **Turn-Based Combat:** Engage in strategic turn-based combat with multiple enemies.
 *   **Party System:** Control a party of up to three heroes.
 *   **Highscore Leaderboard:** Compete for the highest score.
-*   **Dungeon Levels:** Descend through multiple dungeon floors, with a final boss at the end.
+*   **Dungeon Levels:** Descend through multiple dungeon floors, with a final boss 🐉 at the end.
 *   **Emoji UI:** A vibrant and visually appealing emoji-based user interface.
 *   **Class-Specific Skills:** Unleash powerful, unique abilities for each character class.
